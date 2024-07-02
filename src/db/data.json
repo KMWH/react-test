@@ -1,0 +1,60 @@
+{
+  "days": [
+    {
+      "id": "1",
+      "day": 1
+    },
+    {
+      "id": "2",
+      "day": 2
+    },
+    {
+      "id": "3",
+      "day": 3
+    }
+  ],
+  "words": [
+    {
+      "id": "1",
+      "day": 1,
+      "eng": "aaa",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "3",
+      "day": 2,
+      "eng": "bbb",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": "4",
+      "day": 2,
+      "eng": "bbbb",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": "5",
+      "day": 3,
+      "eng": "ccc",
+      "kor": "책",
+      "isDone": true
+    },
+    {
+      "id": "6",
+      "day": 3,
+      "eng": "cccc",
+      "kor": "책",
+      "isDone": false
+    },
+    {
+      "id": "037e",
+      "day": "2",
+      "eng": "computer",
+      "kor": "컴퓨터",
+      "isDone": false
+    }
+  ]
+}
